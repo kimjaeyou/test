@@ -46,3 +46,11 @@ this repo is only java
   
   ![강아지](https://www.google.com/logos/doodles/2021/seasonal-holidays-2021-6753651837109324-6752733080595603-cst.gif)
   
+  
+  ![그림1](./images/1.jpg)
+  
+  ![그림2](./images/2.jpg)
+  
+  
+  
+  
